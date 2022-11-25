@@ -49,3 +49,12 @@ function salarioComInss (salario) {
 }
 
 console.log(salarioComInss(1000))
+
+console.log("Estou em uma linha \n Estou em outra linha")
+
+console.log(`Agora a quebra \n
+usando a crase \n
+que nem é necessário`)
+
+console.log(`Conforme posso observar
+nesse texto aqui`)
